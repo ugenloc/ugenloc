@@ -1,10 +1,10 @@
 ### Hi there, Here Is What I'm Currently Working On! 👋
 
-- 🔭 I’m currently working on ... Web3 Applications
-- 🌱 I’m currently learning ... Tensorflow
-- 👯 I’m looking to collaborate on ... Machine Learning And Deep Learning Projects
-- 🤔 I’m looking for help with ... Starting And Scaling A Software Company
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working on web3 applications
+- 🌱 I’m currently learning Tensorflow
+- 👯 I’m looking to collaborate on machine learning and deep learning projects
+- 🤔 I’m looking for help with starting and scaling a software company
+- 💬 Ask me about anything
 - 📫 How to reach me: ... ugenloc@quantmodel.ai
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Introverted Intuitive Thinker and Judger (INTJ)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Introverted Intuitive Thinker and Judger (INTJ)
