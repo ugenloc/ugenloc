@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... Web3 Applications
 - 🌱 I’m currently learning ... Tensorflow
-- 👯 I’m looking to collaborate on ... Machine Learning And Deep Learning Project
+- 👯 I’m looking to collaborate on ... Machine Learning And Deep Learning Projects
 - 🤔 I’m looking for help with ... Starting And Scaling A Software Company
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... ugenloc@quantmodel.ai
