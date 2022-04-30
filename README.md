@@ -1,7 +1,7 @@
 ### Hi there, Here Is What I'm Currently Working On! 👋
 
-- 🔭 I’m currently working on web3 applications
-- 🌱 I’m currently learning Tensorflow
+- 🔭 I’m currently working on Quantmodel
+- 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate on machine learning and deep learning projects
 - 🤔 I’m looking for help with starting and scaling a software company
 - 💬 Ask me about anything
