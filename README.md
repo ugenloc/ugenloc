@@ -9,5 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Introverted Intuitive Thinker and Judger (INTJ)
 
-	
-![solver](https://user-images.githubusercontent.com/41567741/166131654-3af55225-f9f0-4892-a9e4-921f9f4af072.png)
+
