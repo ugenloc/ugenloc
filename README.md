@@ -8,3 +8,6 @@
 - 📫 How to reach me: ... ugenloc@quantmodel.ai
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Introverted Intuitive Thinker and Judger (INTJ)
+
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/two-new-datasets-for-italian-language/abstractive-text-summarization-on-abstractive)](https://paperswithcode.com/sota/abstractive-text-summarization-on-abstractive?p=two-new-datasets-for-italian-language)
