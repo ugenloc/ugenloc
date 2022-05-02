@@ -1,4 +1,4 @@
-### Hi there, Here Is What I'm Currently Working On! 👋
+### Hi there 👋, Here Is What I'm Currently Working On!
 
 - 🔭 I’m currently working on ... Decentralized Applications
 - 🌱 I’m currently learning Tensorflow 
