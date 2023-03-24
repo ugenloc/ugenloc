@@ -1,12 +1,10 @@
-### Hi there 👋, Here Is What I'm Currently Working On!
+  Data analytics professional with excellent understanding and proficiency in platforms and tools for effective data analysis, including SQL, Spreadsheet, Tableau, R, and Python. I enjoy working with stakeholders including executives, customer-facing teams, and data science teams in an organization to help find solutions to business problems.
 
-- 🔭 I’m currently working on ... Machine learning and deep learning applications.
-- 🌱 I’m currently learning Tensorflow 
-- 👯 I’m looking to collaborate on AI projects
-- 🤔 I’m looking for help with joining a tech company as a tensorflow developer 
-- 💬 Ask me about anything
-- 📫 How to reach me: ... ugenloc@quantmodel.ai
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Introverted Intuitive Thinker and Judger (INTJ)
-
+Skills:
+• Strong analytical skills
+• Pattern recognition 
+• Relational database management system
+• Strong data visualization skills 
+• Proficiency with spreadsheets, SQL, Python, Tensorflow, R, Google Colab, Tableau and BigQuery
+       
 
